@@ -1,0 +1,2 @@
+# detroit-water
+This is an analysis of the water shutoffs in Detroit. The data showed that water shutoff rates were higher in predominantly Black neighborhoods, implying that water shutoff decisions penalized certain communities based on racial disparities.
